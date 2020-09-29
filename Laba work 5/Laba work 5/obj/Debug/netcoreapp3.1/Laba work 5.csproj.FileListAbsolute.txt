@@ -1,0 +1,13 @@
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.exe
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.deps.json
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.runtimeconfig.json
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.runtimeconfig.dev.json
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.dll
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\bin\Debug\netcoreapp3.1\Laba work 5.pdb
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.csprojAssemblyReference.cache
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.AssemblyInfoInputs.cache
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.AssemblyInfo.cs
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.dll
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.pdb
+C:\Users\Bohdan\source\repos\Laba work 5\Laba work 5\obj\Debug\netcoreapp3.1\Laba work 5.genruntimeconfig.cache
