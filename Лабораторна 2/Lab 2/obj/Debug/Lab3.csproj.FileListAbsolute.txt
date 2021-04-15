@@ -1,0 +1,10 @@
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\Users\Bohdan\Desktop\Лабораторна 3\Laboratory 3\obj\Debug\Laboratory 3.pdb

@@ -1,0 +1,29 @@
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\Users\ASUS\source\repos\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csproj.GenerateResource.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\Laboratory 3\Laboratory 3\obj\Debug\Laboratory 3.pdb
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\bin\Debug\Laboratory 3.exe.config
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\bin\Debug\Laboratory 3.exe
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\bin\Debug\Laboratory 3.pdb
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory 3.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory_3.Form1.resources
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory_3.Properties.Resources.resources
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory 3.csproj.GenerateResource.cache
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory 3.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory 3.exe
+C:\Users\Bohdan\Desktop\Laboratory 3 kubiki\Laboratory 3\obj\Debug\Laboratory 3.pdb
