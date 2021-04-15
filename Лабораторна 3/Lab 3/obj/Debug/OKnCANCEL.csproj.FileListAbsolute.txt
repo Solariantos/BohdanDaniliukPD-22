@@ -1,0 +1,39 @@
+D:\projects csharp\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.exe.config
+D:\projects csharp\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.exe
+D:\projects csharp\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.pdb
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.csprojAssemblyReference.cache
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.Form1.resources
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.Properties.Resources.resources
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.csproj.GenerateResource.cache
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.exe
+D:\projects csharp\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.exe.config
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.exe
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\bin\Debug\OKnCANCEL.pdb
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.csprojAssemblyReference.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.Form1.resources
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.Properties.Resources.resources
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.csproj.GenerateResource.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.csproj.CoreCompileInputs.cache
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.exe
+C:\Users\38098\OneDrive\Рабочий стол\myrepository-master\OKnCANCEL\OKnCANCEL\obj\Debug\OKnCANCEL.pdb
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\bin\Debug\OKnCANCEL.exe.config
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\bin\Debug\OKnCANCEL.exe
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\bin\Debug\OKnCANCEL.pdb
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.Form1.resources
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.Properties.Resources.resources
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.csproj.GenerateResource.cache
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.exe
+C:\Users\Bohdan\Desktop\Лабораторна 2\Lab 2\obj\Debug\OKnCANCEL.pdb
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\bin\Debug\OKnCANCEL.exe.config
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\bin\Debug\OKnCANCEL.exe
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\bin\Debug\OKnCANCEL.pdb
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.Form1.resources
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.Properties.Resources.resources
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.csproj.GenerateResource.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.exe
+C:\Users\Bohdan\Desktop\Лабораторна 3\Lab 3\obj\Debug\OKnCANCEL.pdb
